@@ -19,5 +19,5 @@ for(let tentativas = 3 ; tentativas >= 1; tentativas = tentativas - 1){
     }
 }
 if (ten != num) {
-    alert("perdeu")
+    alert("Mentira kkkkkkkkkkkk, voce perdeu")
 }
