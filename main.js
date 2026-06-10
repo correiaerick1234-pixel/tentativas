@@ -15,6 +15,9 @@ for(let tentativas = 3 ; tentativas >= 1; tentativas = tentativas - 1){
         alert("ganhou")
         tentativas = 0
     }else{
-        alert("perdeu")
+        alert("tente denovo")
     }
+}
+if (ten != num) {
+    alert("perdeu")
 }
